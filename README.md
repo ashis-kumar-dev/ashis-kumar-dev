@@ -12,7 +12,7 @@
 [<img align="left" width="25px" alt="My Website" src="https://www.svgrepo.com/show/310884/globe.svg"/>][website]
 [<img align="left" width="25px" alt="Twitter" src="https://www.svgrepo.com/show/137277/twitter.svg"/>][twitter]
 [<img align="left" width="25px" alt="Linkedin" src="https://www.svgrepo.com/show/128403/linkedin.svg"/>][linkedin]
-[<img align="left" width="25px" alt="medium.com" src="https://www.svgrepo.com/show/128403/linkedin.svg"/>][medium]
+[<img align="left" width="25px" alt="medium.com" src="https://www.svgrepo.com/show/105253/blogger.svg"/>][medium]
 
 <br />
 
