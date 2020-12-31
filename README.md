@@ -1,6 +1,7 @@
 ### Hi there, I'm Ashis Kumar - aka (I am not famous)
-<br/>
+
 ## I'm a Salesforce Developer, Front-end Developer and I love anime
+
 - I'm currently working as a full time Salesforce Developer (working from home)
 - I'm currently learning everything Salesforce Lightning
 - I'm planning to create fun little projects with LWC and Machine Learning
