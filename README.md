@@ -1,26 +1,18 @@
-### Hi there, I'm Ashis Kumar - aka (I am not famous)
+### Hi there, I'm Ashis Kumar Maharana, also (I am not famous)
 
-## I'm a Salesforce Developer, Front-end Developer and I love anime
+## I'm a Salesforce Fullstack Developer, occassionally write python code
 
 -   I'm currently working as a full time Salesforce Developer (working from home)
--   I'm currently learning everything Salesforce Lightning
--   I'm planning to create fun little projects with LWC and Machine Learning
--   2021 Goals:
-    -   Better in Lightning Web Components
-    -   Better in front-end
-    -   Develop more front-end projects
--   Fun Fact: I don't know guitar, spent weekends with laptop and Supernatural
+-   I'm currently learning everything Salesforce performance optimization
 
 ### Connect with me:
 
-[<img align="left" width="25px" alt="My Website" src="https://www.svgrepo.com/show/310884/globe.svg"/>][website]
-[<img align="left" width="25px" alt="Twitter" src="https://www.svgrepo.com/show/137277/twitter.svg"/>][twitter]
 [<img align="left" width="25px" alt="Linkedin" src="https://www.svgrepo.com/show/128403/linkedin.svg"/>][linkedin]
 [<img align="left" width="25px" alt="medium.com" src="https://www.svgrepo.com/show/105253/blogger.svg"/>][medium]
 
 <br />
 
-### Tools
+### Tools I Use
 
 [<img align="left" width="25px" alt="Salesforce" src="https://www.svgrepo.com/show/303235/salesforce-2-logo.svg" />][salesforce]
 [<img align="left" width="25px" alt="Lightning" src="https://www.svgrepo.com/show/75261/lightning.svg"/>][salesforce]
@@ -32,8 +24,7 @@
 <br />
 <br />
 
-[website]: https://google.com
+[website]: don't have one
 [medium]: https://medium.com/ashiskumarmaharana
-[twitter]: https://twitter.com/ashis_maharana
-[linkedin]: https://linkedin.com/in/ashis-kumar-maharana-5014bb163
+[linkedin]: https://linkedin.com/in/ashis-kumar-maharana
 [salesforce]: https://trailhead.me/id/ashiskumar
